@@ -1,0 +1,20 @@
+body{
+    background-image: url("bg.jpg");
+}
+.hskt{
+    font-size: 500%;
+    line-height: 2;
+    box-shadow: 10px 10px 20px darkgoldenrod ;
+    width: 100%;
+    
+}
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(to right top, #ffb805, #8400a5, #ff0000, #00ff22, #ff9900, #00ffff);
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+    }
